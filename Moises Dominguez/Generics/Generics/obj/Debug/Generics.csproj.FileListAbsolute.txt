@@ -1,0 +1,6 @@
+C:\Users\moises.dominguez\Desktop\Yessica\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\moises.dominguez\Desktop\Yessica\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\moises.dominguez\Desktop\Yessica\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\moises.dominguez\Desktop\Yessica\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\moises.dominguez\Desktop\Yessica\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\moises.dominguez\Desktop\Yessica\Generics\Generics\obj\Debug\Generics.pdb
