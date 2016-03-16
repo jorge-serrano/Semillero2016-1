@@ -8,17 +8,11 @@ namespace Generics
 {
     public class Customer
     {
-       //public  CustomerId { get; set; }
+       
 
         public string Mail { get; set; }
 
         public string  Name{ get; set; }
 
-        public Stack<Order> Orders { get; set; }
-
-        public Customer()
-        {
-            Orders = new Stack<Order>();
-        }
     }
 }

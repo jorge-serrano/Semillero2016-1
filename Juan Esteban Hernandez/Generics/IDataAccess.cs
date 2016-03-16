@@ -9,8 +9,8 @@ namespace Generics
         /// </summary>
         /// <param name="folderName">full path of the folder taht contains the txt file</param>
         /// <returns></returns>
-        List<Customer> GetCustomers(string folderName);
+        Dictionary<string,string> GetCustomers(string folderName);
 
-        List<Order> GetOrders(string folderName);
+        Stack<Order> GetOrders(string folderName);
     }
 }

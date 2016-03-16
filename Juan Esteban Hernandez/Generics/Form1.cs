@@ -12,8 +12,8 @@ namespace Generics
 {
     public partial class Form1 : Form
     {
-        private List<Customer> customers;
-        private List<Order> orders;
+        private Dictionary<string,string> customers;
+        private Stack<Order> orders;
  
         public Form1()
         {
@@ -22,19 +22,12 @@ namespace Generics
 
         private void button1_Click(object sender, EventArgs e)
         {
-            foreach (Customer customer in customers)
+            foreach (KeyValuePair<string,string> customer in customers)
             {
-                foreach (Order order in orders) 
-                { 
-                    customer.Orders.Push(order);
-                    while (customer.Orders.Count > 0)
-                        {
-                            var currentOrder = customer.Orders.Pop();
+                            var currentOrder = orders.Pop();
                             Messenger msg = new Messenger();
-                            msg.SendMessage(customer.Mail, CreateMessage(currentOrder));
-                }
-               }
-            }
+                            msg.SendMessage(customer.Key, CreateMessage(currentOrder));
+             }
         }
 
         private string CreateMessage(Order currentOrder)
@@ -59,7 +52,10 @@ namespace Generics
                 lblError.Text = "Error loading the dictionary, the email needs to be unique";
             } 
             orders = data.GetOrders(@"C:\Semillero\Labs\Semillero2016-1\Juan Esteban Hernandez\Generics\Properties\DataSources");
-            customerBindingSource.DataSource = customers;
+            //customerBindingSource.DataSource = customers;
+            //var clients = ;
+            var customer = from row in customers select new { Mail = row.Key, Name = row.Value };
+            dgCustomers.DataSource = customer.ToArray();
             orderBindingSource.DataSource = orders;
 
         }

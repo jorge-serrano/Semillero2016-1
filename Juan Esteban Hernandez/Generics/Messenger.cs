@@ -15,7 +15,6 @@ namespace Generics
         public Messenger()
         {
             mailClient.Credentials = new NetworkCredential("juan.hernandez@yuxipacific.com","1152444184j");
-            //mailClient.UseDefaultCredentials = false;
             mailClient.EnableSsl = true;
         }
         public bool SendMessage(string AddressTo, string MessageToSend)
