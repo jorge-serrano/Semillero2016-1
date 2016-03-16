@@ -1,0 +1,12 @@
+D:\Semillero\Labs\Generics\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Semillero\Labs\Generics\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Semillero\Labs\Generics\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Semillero\Labs\Generics\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Semillero\Labs\Generics\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Semillero\Labs\Generics\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Semillero\Labs\Semillero2016-1\Juan Esteban Hernandez\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Semillero\Labs\Semillero2016-1\Juan Esteban Hernandez\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Semillero\Labs\Semillero2016-1\Juan Esteban Hernandez\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Semillero\Labs\Semillero2016-1\Juan Esteban Hernandez\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Semillero\Labs\Semillero2016-1\Juan Esteban Hernandez\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Semillero\Labs\Semillero2016-1\Juan Esteban Hernandez\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
