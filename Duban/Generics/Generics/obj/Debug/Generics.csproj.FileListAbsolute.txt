@@ -1,0 +1,18 @@
+D:\Semillero\Labs\Generics\Generics\bin\Debug\Generics.exe.config
+D:\Semillero\Labs\Generics\Generics\bin\Debug\Generics.exe
+D:\Semillero\Labs\Generics\Generics\bin\Debug\Generics.pdb
+D:\Semillero\Labs\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+D:\Semillero\Labs\Generics\Generics\obj\Debug\Generics.Properties.Resources.resources
+D:\Semillero\Labs\Generics\Generics\obj\Debug\Generics.csproj.GenerateResource.Cache
+D:\Semillero\Labs\Generics\Generics\obj\Debug\Generics.exe
+D:\Semillero\Labs\Generics\Generics\obj\Debug\Generics.pdb
+D:\Semillero\Labs\Generics\Generics\obj\Debug\Generics.Form1.resources
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Generics\Generics\obj\Debug\Generics.Form1.resources
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Generics\Generics\obj\Debug\Generics.Properties.Resources.resources
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Generics\Generics\obj\Debug\Generics.csproj.GenerateResource.Cache
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
