@@ -1,0 +1,6 @@
+D:\Semillero\Labs\Generics\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Semillero\Labs\Generics\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Semillero\Labs\Generics\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Semillero\Labs\Generics\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Semillero\Labs\Generics\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Semillero\Labs\Generics\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
