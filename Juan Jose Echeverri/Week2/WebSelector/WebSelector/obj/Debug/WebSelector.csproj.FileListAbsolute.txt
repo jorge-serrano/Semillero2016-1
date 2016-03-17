@@ -1,0 +1,6 @@
+c:\users\yuxi\documents\visual studio 2013\Projects\WebSelector\WebSelector\bin\Debug\WebSelector.exe.config
+c:\users\yuxi\documents\visual studio 2013\Projects\WebSelector\WebSelector\obj\Debug\WebSelector.csprojResolveAssemblyReference.cache
+c:\users\yuxi\documents\visual studio 2013\Projects\WebSelector\WebSelector\bin\Debug\WebSelector.exe
+c:\users\yuxi\documents\visual studio 2013\Projects\WebSelector\WebSelector\bin\Debug\WebSelector.pdb
+c:\users\yuxi\documents\visual studio 2013\Projects\WebSelector\WebSelector\obj\Debug\WebSelector.exe
+c:\users\yuxi\documents\visual studio 2013\Projects\WebSelector\WebSelector\obj\Debug\WebSelector.pdb
