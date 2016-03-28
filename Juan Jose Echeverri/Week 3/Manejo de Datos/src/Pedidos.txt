@@ -1,0 +1,11 @@
+Graphic Tees,4
+Polos,3
+Tees,1
+Shirts,7
+Tanks,4
+Hoodies,8
+Pants,2
+Shorts,6
+Tees,3
+Shirts,9
+Shorts,1
