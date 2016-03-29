@@ -1,0 +1,12 @@
+C:\Users\YUXI\Downloads\TestSem-master\Proyect\RedesSociales\RedesSociales\bin\Debug\RedesSociales.exe.config
+C:\Users\YUXI\Downloads\TestSem-master\Proyect\RedesSociales\RedesSociales\bin\Debug\RedesSociales.exe
+C:\Users\YUXI\Downloads\TestSem-master\Proyect\RedesSociales\RedesSociales\bin\Debug\RedesSociales.pdb
+C:\Users\YUXI\Downloads\TestSem-master\Proyect\RedesSociales\RedesSociales\obj\Debug\RedesSociales.csprojResolveAssemblyReference.cache
+C:\Users\YUXI\Downloads\TestSem-master\Proyect\RedesSociales\RedesSociales\obj\Debug\RedesSociales.Form1.resources
+C:\Users\YUXI\Downloads\TestSem-master\Proyect\RedesSociales\RedesSociales\obj\Debug\RedesSociales.Properties.Resources.resources
+C:\Users\YUXI\Downloads\TestSem-master\Proyect\RedesSociales\RedesSociales\obj\Debug\RedesSociales.csproj.GenerateResource.Cache
+C:\Users\YUXI\Downloads\TestSem-master\Proyect\RedesSociales\RedesSociales\obj\Debug\RedesSociales.exe
+C:\Users\YUXI\Downloads\TestSem-master\Proyect\RedesSociales\RedesSociales\obj\Debug\RedesSociales.pdb
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Buenos\RedesSociales\RedesSociales\bin\Debug\RedesSociales.exe.config
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Buenos\RedesSociales\RedesSociales\obj\Debug\RedesSociales.exe
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\Buenos\RedesSociales\RedesSociales\obj\Debug\RedesSociales.pdb

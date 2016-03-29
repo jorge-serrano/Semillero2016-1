@@ -1,0 +1,12 @@
+c:\users\andres d\documents\visual studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\bin\Debug\MultiplyingWithoutAsterisks.exe.config
+c:\users\andres d\documents\visual studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\bin\Debug\MultiplyingWithoutAsterisks.exe
+c:\users\andres d\documents\visual studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\bin\Debug\MultiplyingWithoutAsterisks.pdb
+c:\users\andres d\documents\visual studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\obj\Debug\MultiplyingWithoutAsterisks.csprojResolveAssemblyReference.cache
+c:\users\andres d\documents\visual studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\obj\Debug\MultiplyingWithoutAsterisks.exe
+c:\users\andres d\documents\visual studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\obj\Debug\MultiplyingWithoutAsterisks.pdb
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\bin\Debug\MultiplyingWithoutAsterisks.exe.config
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\obj\Debug\MultiplyingWithoutAsterisks.exe
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\obj\Debug\MultiplyingWithoutAsterisks.pdb
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\bin\Debug\MultiplyingWithoutAsterisks.exe
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\bin\Debug\MultiplyingWithoutAsterisks.pdb
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\MultiplyingWithoutAsterisks\MultiplyingWithoutAsterisks\obj\Debug\MultiplyingWithoutAsterisks.csprojResolveAssemblyReference.cache
