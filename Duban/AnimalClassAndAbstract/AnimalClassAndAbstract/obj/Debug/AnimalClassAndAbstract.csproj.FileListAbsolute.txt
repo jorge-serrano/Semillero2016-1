@@ -1,6 +1,0 @@
-c:\users\yuxi\documents\visual studio 2013\Projects\AnimalClassAndAbstract\AnimalClassAndAbstract\bin\Debug\AnimalClassAndAbstract.exe.config
-C:\Users\YUXI\documents\visual studio 2013\Projects\AnimalClassAndAbstract\AnimalClassAndAbstract\obj\Debug\AnimalClassAndAbstract.csprojResolveAssemblyReference.cache
-C:\Users\YUXI\documents\visual studio 2013\Projects\AnimalClassAndAbstract\AnimalClassAndAbstract\bin\Debug\AnimalClassAndAbstract.exe
-C:\Users\YUXI\documents\visual studio 2013\Projects\AnimalClassAndAbstract\AnimalClassAndAbstract\bin\Debug\AnimalClassAndAbstract.pdb
-C:\Users\YUXI\documents\visual studio 2013\Projects\AnimalClassAndAbstract\AnimalClassAndAbstract\obj\Debug\AnimalClassAndAbstract.exe
-C:\Users\YUXI\documents\visual studio 2013\Projects\AnimalClassAndAbstract\AnimalClassAndAbstract\obj\Debug\AnimalClassAndAbstract.pdb
