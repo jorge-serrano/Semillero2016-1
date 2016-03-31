@@ -1,0 +1,6 @@
+c:\users\yuxi\documents\visual studio 2013\Projects\DBCommerceLogin\DBCommerceLogin\bin\DBCommerceLogin.dll.config
+c:\users\yuxi\documents\visual studio 2013\Projects\DBCommerceLogin\DBCommerceLogin\bin\DBCommerceLogin.dll
+c:\users\yuxi\documents\visual studio 2013\Projects\DBCommerceLogin\DBCommerceLogin\bin\DBCommerceLogin.pdb
+c:\users\yuxi\documents\visual studio 2013\Projects\DBCommerceLogin\DBCommerceLogin\obj\Debug\DBCommerceLogin.csprojResolveAssemblyReference.cache
+c:\users\yuxi\documents\visual studio 2013\Projects\DBCommerceLogin\DBCommerceLogin\obj\Debug\DBCommerceLogin.dll
+c:\users\yuxi\documents\visual studio 2013\Projects\DBCommerceLogin\DBCommerceLogin\obj\Debug\DBCommerceLogin.pdb
