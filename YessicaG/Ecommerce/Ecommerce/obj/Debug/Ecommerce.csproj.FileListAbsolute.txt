@@ -1,0 +1,99 @@
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\ApplicationInsights.config
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\csc.exe
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\vbc.exe
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Ecommerce.dll.config
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Ecommerce.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Ecommerce.pdb
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.AI.Web.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.AI.Web.xml
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\obj\Debug\Ecommerce.dll
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
+C:\Users\Yessica Gomez\Desktop\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csprojResolveAssemblyReference.cache
+G:\Ecommerce\Ecommerce\bin\ApplicationInsights.config
+G:\Ecommerce\Ecommerce\bin\roslyn\csc.exe
+G:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Ecommerce\Ecommerce\bin\roslyn\System.Collections.Immutable.dll
+G:\Ecommerce\Ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+G:\Ecommerce\Ecommerce\bin\roslyn\vbc.exe
+G:\Ecommerce\Ecommerce\bin\roslyn\VBCSCompiler.exe
+G:\Ecommerce\Ecommerce\bin\roslyn\VBCSCompiler.exe.config
+G:\Ecommerce\Ecommerce\bin\Ecommerce.dll.config
+G:\Ecommerce\Ecommerce\bin\Ecommerce.dll
+G:\Ecommerce\Ecommerce\bin\Ecommerce.pdb
+G:\Ecommerce\Ecommerce\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Ecommerce\Ecommerce\bin\Microsoft.AI.DependencyCollector.dll
+G:\Ecommerce\Ecommerce\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Ecommerce\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Ecommerce\Ecommerce\bin\Microsoft.AI.Web.dll
+G:\Ecommerce\Ecommerce\bin\Microsoft.AI.WindowsServer.dll
+G:\Ecommerce\Ecommerce\bin\Microsoft.ApplicationInsights.dll
+G:\Ecommerce\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Ecommerce\Ecommerce\bin\Microsoft.AI.DependencyCollector.xml
+G:\Ecommerce\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Ecommerce\Ecommerce\bin\Microsoft.AI.Web.xml
+G:\Ecommerce\Ecommerce\bin\Microsoft.AI.WindowsServer.xml
+G:\Ecommerce\Ecommerce\bin\Microsoft.ApplicationInsights.xml
+G:\Ecommerce\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csprojResolveAssemblyReference.cache
+G:\Ecommerce\Ecommerce\obj\Debug\Ecommerce.dll
+G:\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
+I:\Ecommerce\Ecommerce\bin\ApplicationInsights.config
+I:\Ecommerce\Ecommerce\bin\roslyn\csc.exe
+I:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Ecommerce\Ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Ecommerce\Ecommerce\bin\roslyn\System.Collections.Immutable.dll
+I:\Ecommerce\Ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+I:\Ecommerce\Ecommerce\bin\roslyn\vbc.exe
+I:\Ecommerce\Ecommerce\bin\roslyn\VBCSCompiler.exe
+I:\Ecommerce\Ecommerce\bin\roslyn\VBCSCompiler.exe.config
+I:\Ecommerce\Ecommerce\bin\Ecommerce.dll.config
+I:\Ecommerce\Ecommerce\bin\Ecommerce.dll
+I:\Ecommerce\Ecommerce\bin\Ecommerce.pdb
+I:\Ecommerce\Ecommerce\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Ecommerce\Ecommerce\bin\Microsoft.AI.DependencyCollector.dll
+I:\Ecommerce\Ecommerce\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Ecommerce\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Ecommerce\Ecommerce\bin\Microsoft.AI.Web.dll
+I:\Ecommerce\Ecommerce\bin\Microsoft.AI.WindowsServer.dll
+I:\Ecommerce\Ecommerce\bin\Microsoft.ApplicationInsights.dll
+I:\Ecommerce\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Ecommerce\Ecommerce\bin\Microsoft.AI.DependencyCollector.xml
+I:\Ecommerce\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Ecommerce\Ecommerce\bin\Microsoft.AI.Web.xml
+I:\Ecommerce\Ecommerce\bin\Microsoft.AI.WindowsServer.xml
+I:\Ecommerce\Ecommerce\bin\Microsoft.ApplicationInsights.xml
+I:\Ecommerce\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csprojResolveAssemblyReference.cache
+I:\Ecommerce\Ecommerce\obj\Debug\Ecommerce.dll
+I:\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
