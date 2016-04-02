@@ -1,0 +1,38 @@
+﻿@model HelloMVC.Models.Customer
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Customer</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerName)
+        </dd>
+
+    </dl>
+</div>
+<div >
+    Details
+</div>
+
+@foreach (HelloMVC.Models.CustomerDetail item in Model.Details.ToList())
+{
+    @Html.EditorFor(a => item.Email) <p></p>
+}
+
+
+
+@Html.Partial("CreditCard")
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CustomerId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
