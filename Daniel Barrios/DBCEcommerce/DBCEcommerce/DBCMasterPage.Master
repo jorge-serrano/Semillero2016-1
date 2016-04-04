@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DBCMasterPage.master.cs" Inherits="DBCEcommerce.DBCMasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+   <title>DBC CLOTHING</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+        <div id="dvmaincontainer">
+  <div id="dvtopcontainer">
+    <div id="dvlogocontainer">
+	  <h1>DBC CLOTHING</h1>
+	  <h4> </h4>
+    </div>
+    <div id="dvnavicontainer">
+      <img src="images/navi_left.jpg" alt="" />
+<div id="tabs1" >
+        <ul>
+          <!-- CSS Tabs -->
+          <li id="current"><a href="#"><span>Home</span></a></li>
+          <li><a href="#"><span>Portfolio </span></a></li>
+          <li><a href="#"><span>About Us</span></a></li>
+        </ul>
+      </div>
+      <img src="images/navi_right.jpg" alt="" />
+    </div>
+  </div>
+  <div id="dvbodycontainer">
+    <div id="dvbannerbgcontainer">
+      
+       <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder> 
+      
+    </div>
+    <div id="dvleftpanel">
+      
+  </div>
+  <div id="dvfootercontainer">
+    <div id="foottop">
+      <p><span>Copyright © 2016 Yuxi Pacific</span></p>
+    </div>
+  </div>
+</div>   
+</body>
+</html>

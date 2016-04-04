@@ -1,0 +1,5 @@
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\DBCEcommerce\DBCEcommerce\bin\DBCEcommerce.dll.config
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\DBCEcommerce\DBCEcommerce\bin\DBCEcommerce.dll
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\DBCEcommerce\DBCEcommerce\bin\DBCEcommerce.pdb
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\DBCEcommerce\DBCEcommerce\obj\Debug\DBCEcommerce.dll
+C:\Users\YUXI\Documents\Visual Studio 2013\Projects\DBCEcommerce\DBCEcommerce\obj\Debug\DBCEcommerce.pdb
